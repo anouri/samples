@@ -2,7 +2,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<connection_specifications>
 		<connection_specification name="dbConnection">
-			<ODBC database="TeraDsn" user="your-db-name" password="db-password" />
+			<ODBC database="TeraDsn" user="your-db-user-name" password="db-password" />
 		</connection_specification>
 	</connection_specifications>
 
